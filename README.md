@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prependrasingh/DSA-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Prependrasingh/DSA-codes/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prependrasingh/DSA-codes/tree/master/0023-merge-k-sorted-lists) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -87,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prependrasingh/DSA-codes/tree/master/0023-merge-k-sorted-lists) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3691-maximum-total-subarray-value-ii) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prependrasingh/DSA-codes/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
