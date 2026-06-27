@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Prependrasingh/DSA-codes/tree/master/0485-max-consecutive-ones) |
+| [0860-lemonade-change](https://github.com/Prependrasingh/DSA-codes/tree/master/0860-lemonade-change) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prependrasingh/DSA-codes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prependrasingh/DSA-codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/Prependrasingh/DSA-codes/tree/master/0860-lemonade-change) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
