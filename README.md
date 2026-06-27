@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prependrasingh/DSA-codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3838-weighted-word-mapping](https://github.com/Prependrasingh/DSA-codes/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prependrasingh/DSA-codes/tree/master/0014-longest-common-prefix) |
+| [3838-weighted-word-mapping](https://github.com/Prependrasingh/DSA-codes/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prependrasingh/DSA-codes/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Prependrasingh/DSA-codes/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
