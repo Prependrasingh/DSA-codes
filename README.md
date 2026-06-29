@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prependrasingh/DSA-codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prependrasingh/DSA-codes/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3614-process-string-with-special-operations-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Prependrasingh/DSA-codes/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Prependrasingh/DSA-codes/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prependrasingh/DSA-codes/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Prependrasingh/DSA-codes/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prependrasingh/DSA-codes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prependrasingh/DSA-codes/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3614-process-string-with-special-operations-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Prependrasingh/DSA-codes/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Prependrasingh/DSA-codes/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
