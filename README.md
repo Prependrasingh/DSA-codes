@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Prependrasingh/DSA-codes/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/Prependrasingh/DSA-codes/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prependrasingh/DSA-codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prependrasingh/DSA-codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prependrasingh/DSA-codes/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prependrasingh/DSA-codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prependrasingh/DSA-codes/tree/master/0014-longest-common-prefix) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prependrasingh/DSA-codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prependrasingh/DSA-codes/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Prependrasingh/DSA-codes/tree/master/3838-weighted-word-mapping) |
