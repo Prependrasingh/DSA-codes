@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prependrasingh/DSA-codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prependrasingh/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prependrasingh/DSA-codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prependrasingh/DSA-codes/tree/master/0014-longest-common-prefix) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prependrasingh/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prependrasingh/DSA-codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prependrasingh/DSA-codes/tree/master/3612-process-string-with-special-operations-i) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Prependrasingh/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
