@@ -1,24 +1,32 @@
 class Solution {
 public:
-    int ParseDigit(int n){
-        if(n < 10)return n;
+    // int ParseDigit(int n){
+    //     if(n < 10)return n;
 
-        vector<int> ans;
+    //     vector<int> ans;
 
-        while(n > 0){
-            int digit = n % 10;
-            ans.push_back(digit);
-            n = n / 10;
-        }
+    //     while(n > 0){
+    //         int digit = n % 10;
+    //         ans.push_back(digit);
+    //         n = n / 10;
+    //     }
 
-        sort(begin(ans) , end(ans));
+    //     sort(begin(ans) , end(ans));
 
-        int x = ans[ans.size() - 1];
-        int y = ans[ans.size() - 2];
+    //     int x = ans[ans.size() - 1];
+    //     int y = ans[ans.size() - 2];
+
+    //     return x*y;
+    // }
+    int maxProduct(int n) {
+        // return ParseDigit(n);
+
+        string ans = to_string(n);
+        sort(ans.begin() , ans.end());
+
+        int x = (ans[ans.size() - 1] - '0');
+        int y = (ans[ans.size() - 2] - '0');
 
         return x*y;
-    }
-    int maxProduct(int n) {
-        return ParseDigit(n);
     }
 };
