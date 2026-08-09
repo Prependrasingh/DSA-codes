@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prependrasingh/DSA-codes/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Prependrasingh/DSA-codes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Prependrasingh/DSA-codes/tree/master/0486-predict-the-winner) |
 | [0860-lemonade-change](https://github.com/Prependrasingh/DSA-codes/tree/master/0860-lemonade-change) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prependrasingh/DSA-codes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prependrasingh/DSA-codes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prependrasingh/DSA-codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -362,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/1140-stone-game-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
