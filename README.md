@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Prependrasingh/DSA-codes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Prependrasingh/DSA-codes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Prependrasingh/DSA-codes/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Prependrasingh/DSA-codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prependrasingh/DSA-codes/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Prependrasingh/DSA-codes/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prependrasingh/DSA-codes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prependrasingh/DSA-codes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Prependrasingh/DSA-codes/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Prependrasingh/DSA-codes/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prependrasingh/DSA-codes/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prependrasingh/DSA-codes/tree/master/2812-find-the-safest-path-in-a-grid) |
