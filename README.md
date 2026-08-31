@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prependrasingh/DSA-codes/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Prependrasingh/DSA-codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prependrasingh/DSA-codes/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Prependrasingh/DSA-codes/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Prependrasingh/DSA-codes/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prependrasingh/DSA-codes/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Prependrasingh/DSA-codes/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Prependrasingh/DSA-codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prependrasingh/DSA-codes/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prependrasingh/DSA-codes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prependrasingh/DSA-codes/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prependrasingh/DSA-codes/tree/master/2812-find-the-safest-path-in-a-grid) |
