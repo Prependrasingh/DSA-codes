@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Prependrasingh/DSA-codes/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Prependrasingh/DSA-codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prependrasingh/DSA-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prependrasingh/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1331-rank-transform-of-an-array](https://github.com/Prependrasingh/DSA-codes/tree/master/1331-rank-transform-of-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prependrasingh/DSA-codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prependrasingh/DSA-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Prependrasingh/DSA-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prependrasingh/DSA-codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prependrasingh/DSA-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0328-odd-even-linked-list) |
