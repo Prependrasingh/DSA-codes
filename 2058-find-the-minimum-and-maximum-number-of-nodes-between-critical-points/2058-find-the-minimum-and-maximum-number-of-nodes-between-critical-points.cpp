@@ -12,36 +12,40 @@ class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
 
-        vector<int> ans , LinkedArr;
+        if (head == NULL || head->next == NULL || head->next->next == NULL)
+            return {-1, -1};
 
-        ListNode* temp = head;
+        // curr, prev;
+        ListNode* prev = head;
+        ListNode* curr = head->next;
+        int idx = 1;
 
-        while(temp != NULL){
-            LinkedArr.push_back(temp->val);
-            temp = temp->next;
+        int FirstIdx = -1, prevIdx = -1;
+
+        int min_dist = INT_MAX;
+        int max_dist = 0;
+
+        while (curr->next != NULL) {
+            ListNode* nxt = curr->next;
+
+            if (curr->val > prev->val && curr->val > nxt->val ||
+                curr->val < prev->val && curr->val < nxt->val) {
+                if (FirstIdx == -1) {
+                    FirstIdx = idx;
+                } else {
+                    min_dist = min(min_dist, idx - prevIdx);
+                }
+
+                prevIdx = idx;
+            }
+
+            prev = curr;
+            curr = nxt;
+            idx++;
         }
 
-        int n = LinkedArr.size();
-
-        for(int i = 1 ; i < n - 1 ; i++){
-            if(LinkedArr[i] > LinkedArr[i-1] && LinkedArr[i+1] < LinkedArr[i] ||
-             LinkedArr[i] < LinkedArr[i-1] && LinkedArr[i+1] > LinkedArr[i]){
-                ans.push_back(i);
-             }
-        }
-
-        int m = ans.size();
-
-        if(m < 2)return {-1 , -1};
-
-        int mx = ans[m-1] - ans[0];
-
-        int mn = INT_MAX;
-
-        for(int i = 0 ; i < m - 1 ; i++){
-            mn = min(mn , abs(ans[i] - ans[i+1]));
-        }
-
-        return {mn , mx};
+        if (min_dist == INT_MAX)
+            return {-1, -1};
+        return {min_dist, prevIdx - FirstIdx};
     }
 };
