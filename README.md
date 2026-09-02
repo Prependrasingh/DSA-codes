@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Prependrasingh/DSA-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Prependrasingh/DSA-codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Prependrasingh/DSA-codes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Prependrasingh/DSA-codes/tree/master/0486-predict-the-winner) |
 | [0860-lemonade-change](https://github.com/Prependrasingh/DSA-codes/tree/master/0860-lemonade-change) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Prependrasingh/DSA-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Prependrasingh/DSA-codes/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prependrasingh/DSA-codes/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/Prependrasingh/DSA-codes/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Prependrasingh/DSA-codes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prependrasingh/DSA-codes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prependrasingh/DSA-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prependrasingh/DSA-codes/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Prependrasingh/DSA-codes/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Prependrasingh/DSA-codes/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Prependrasingh/DSA-codes/tree/master/1386-cinema-seat-allocation) |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prependrasingh/DSA-codes/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Prependrasingh/DSA-codes/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
