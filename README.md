@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prependrasingh/DSA-codes/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/Prependrasingh/DSA-codes/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prependrasingh/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prependrasingh/DSA-codes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Prependrasingh/DSA-codes/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Prependrasingh/DSA-codes/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/Prependrasingh/DSA-codes/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Prependrasingh/DSA-codes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prependrasingh/DSA-codes/tree/master/0877-stone-game) |
