@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prependrasingh/DSA-codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Prependrasingh/DSA-codes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Prependrasingh/DSA-codes/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Prependrasingh/DSA-codes/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Prependrasingh/DSA-codes/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Prependrasingh/DSA-codes/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/1140-stone-game-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Prependrasingh/DSA-codes/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/Prependrasingh/DSA-codes/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Prependrasingh/DSA-codes/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prependrasingh/DSA-codes/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Prependrasingh/DSA-codes/tree/master/2812-find-the-safest-path-in-a-grid) |
