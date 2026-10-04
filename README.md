@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Prependrasingh/DSA-codes/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Prependrasingh/DSA-codes/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prependrasingh/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Prependrasingh/DSA-codes/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/1096-brace-expansion-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Prependrasingh/DSA-codes/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/Prependrasingh/DSA-codes/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Prependrasingh/DSA-codes/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Prependrasingh/DSA-codes/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Prependrasingh/DSA-codes/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/1140-stone-game-ii) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prependrasingh/DSA-codes/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Prependrasingh/DSA-codes/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Prependrasingh/DSA-codes/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Prependrasingh/DSA-codes/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Prependrasingh/DSA-codes/tree/master/1386-cinema-seat-allocation) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Prependrasingh/DSA-codes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prependrasingh/DSA-codes/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Prependrasingh/DSA-codes/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -580,4 +584,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prependrasingh/DSA-codes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prependrasingh/DSA-codes/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Prependrasingh/DSA-codes/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
