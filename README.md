@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Prependrasingh/DSA-codes/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prependrasingh/DSA-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Prependrasingh/DSA-codes/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Prependrasingh/DSA-codes/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/1096-brace-expansion-ii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prependrasingh/DSA-codes/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Prependrasingh/DSA-codes/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Prependrasingh/DSA-codes/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prependrasingh/DSA-codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prependrasingh/DSA-codes/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -585,4 +587,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prependrasingh/DSA-codes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prependrasingh/DSA-codes/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Prependrasingh/DSA-codes/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Prependrasingh/DSA-codes/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
