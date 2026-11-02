@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prependrasingh/DSA-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prependrasingh/DSA-codes/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Prependrasingh/DSA-codes/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Prependrasingh/DSA-codes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Prependrasingh/DSA-codes/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Prependrasingh/DSA-codes/tree/master/0835-image-overlap) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prependrasingh/DSA-codes/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prependrasingh/DSA-codes/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Prependrasingh/DSA-codes/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Prependrasingh/DSA-codes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prependrasingh/DSA-codes/tree/master/1331-rank-transform-of-an-array) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prependrasingh/DSA-codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Prependrasingh/DSA-codes/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Prependrasingh/DSA-codes/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Prependrasingh/DSA-codes/tree/master/0877-stone-game) |
