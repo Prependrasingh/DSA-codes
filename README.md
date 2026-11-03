@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prependrasingh/DSA-codes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prependrasingh/DSA-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prependrasingh/DSA-codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Prependrasingh/DSA-codes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prependrasingh/DSA-codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prependrasingh/DSA-codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prependrasingh/DSA-codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Prependrasingh/DSA-codes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prependrasingh/DSA-codes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prependrasingh/DSA-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Prependrasingh/DSA-codes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prependrasingh/DSA-codes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prependrasingh/DSA-codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prependrasingh/DSA-codes/tree/master/2089-find-target-indices-after-sorting-array) |
